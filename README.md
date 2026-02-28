@@ -24,7 +24,7 @@ The system automates a complex sorting task through the following synchronized s
 
 ## 👥 Project Team 
 This project was a collaborative effort by Team 9:
-* Asya Samer, Dana Abu Al Ruz, Ethar Al Salameh, Layla Lahham, Jana Saleh Godieh, **Leen Al Masarweh**, Rahaf Elayyan, Ksandra Haddad, Sewar AlRihani.
+* Asya Samer, Dana Abu Al Ruz, Ethar Al Salameh, Layla Lahham, Jana Saleh Godieh, **Leen Al Masarweh**, Rahaf Elayyan, Kasandra Haddad, Sewar AlRihani.
 * **Supervised by**: prof Musa Al-Yaman.
 
 
